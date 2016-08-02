@@ -2,7 +2,6 @@ package com.example.administrator.rxjavademo.ui;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -10,8 +9,6 @@ import android.widget.Toast;
 import com.example.administrator.rxjavademo.R;
 
 import rx.Observable;
-import rx.Observer;
-import rx.Subscriber;
 import rx.functions.Action0;
 import rx.functions.Action1;
 
