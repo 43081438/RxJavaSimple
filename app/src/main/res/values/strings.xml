@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RxJavaDemo</string>
+    <string-array name="activity_names">
+        <item>1.RxJava的使用（一）基本用法</item>
+        <item>2.RxJava的使用（二）Action</item>
+        <item>3.RxJava的使用（三）转换——map、flatMap</item>
+        <item>4.RxJava的使用（四）线程控制 —— Scheduler</item>
+    </string-array>
+</resources>
